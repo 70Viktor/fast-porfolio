@@ -1,8 +1,8 @@
-import alles from './alles.jpg'
-import hamsterdam from './hamsterdam.jpg'
-import integration from './integration.jpg'
-import priority from './priority.jpg'
-import rusCode from './rusCode.jpg'
+import alles from './alles.webp'
+import hamsterdam from './hamsterdam.webp'
+import integration from './integration.webp'
+import priority from './priority.webp'
+import rusCode from './rusCode.webp'
 
 export const assets = {
   rusCode,
