@@ -23,6 +23,7 @@
 
     /* Alias */
     "baseUrl": "./",
+    "ignoreDeprecations": "6.0",
     "paths": {
       "@ui": ["src/ui"],
       "@components": ["src/components"],
